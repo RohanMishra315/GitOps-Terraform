@@ -66,10 +66,3 @@ Finally, HIT the below command to create the infrastructure...
 type yes, and it will prompt you for permission or use --auto-approve in the command above.
 
 
-**This project contains Three GitHub repositories**
-
-➡️ [App Code] (https://github.com/piyushsachdeva/AppCode)
-
-➡️ [Terraform code] (https://github.com/piyushsachdeva/10weeksofcloudops-week4-tf)
-
-➡️ [Manifest Repo] (https://github.com/piyushsachdeva/kube_manifest)
